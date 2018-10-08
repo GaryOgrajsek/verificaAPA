@@ -1,0 +1,3 @@
+﻿  main.cpp
+main.obj : error LNK2019: riferimento al simbolo esterno "void __cdecl Init<struct pratiche>(struct coda<struct pratiche> &)" (??$Init@Upratiche@@@@YAXAAU?$coda@Upratiche@@@@@Z) non risolto nella funzione _main
+C:\Users\in4a13\Desktop\veerifica\verifica\Debug\verifica.exe : fatal error LNK1120: 1 esterni non risolti
